@@ -1,0 +1,12 @@
+const name = " 🅽🅰🅼🅴 - 🆂🅰🅽🆃🅾🆂🅷 🅺🆄🅼🅰🆁 🆂🅴🅽";
+const school = " 🆂🅲🅷🅾🅾🅻 - 🅱🅰🅻🅰🆂🅾🆁🅴 🆉🅸🅻🅻🅰 🆂🅲🅷🅾🅾🅻";
+const grade = " 🅶🆁🅰🅳🅴 -𝔼";
+const section = " 🆂🅴🅲🆃🅸🅾🅽 -🅱";
+const rollno = " 🆁🅾🅻🅻 🅽🅾 -➋➍";
+const marks = " 🅼🅰🆁🅺 -➎⓿➐";
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(rollno);
+console.log(marks);
